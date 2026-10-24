@@ -9,6 +9,7 @@
 | Snipaste | [便携版备份](snipaste/) | [2.11.3 x64](https://github.com/CQin04/software-backup/releases/tag/snipaste-2.11.3-modified) |
 | 鼠标样式 | [浅色／深色与尺寸说明](mouse-cursors/) | [完整素材包](https://github.com/CQin04/software-backup/releases/tag/mouse-cursors-backup-20261025) |
 | 概念画板 | [Android 非官方版本备份](concepts/) | [包内版本 2025.01.5](https://github.com/CQin04/software-backup/releases/tag/concepts-2025.01.5-collected) |
+| IT豪哥电脑更新暂停器 | [文件说明](windows-update-delayer/) | [v2.0](https://github.com/CQin04/software-backup/releases/tag/windows-update-delayer-2.0) |
 | DeskPins | [窗口置顶工具](DeskPins/) | [1.32 安装包](https://github.com/CQin04/software-backup/releases/tag/deskpins-1.32) |
 | NanaRun | [运行环境与权限工具](NanaRun/) | [1.0 Preview 3](https://github.com/CQin04/software-backup/releases/tag/nanarun-1.0.92.0) |
 | JiYuTrainer | [文件信息与许可证](JiYuTrainer/) | [收录版本](https://github.com/CQin04/software-backup/releases/tag/JiYuTrainer) |
