@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-23",
+  "environment": {
+    "os": "Windows x64",
+    "everything": "1.4.1.1032",
+    "es": "1.1.1.39",
+    "everything_mcp": "1.0.9",
+    "python": "3.12.14",
+    "mcp_sdk": "2.3.0"
+  },
+  "codex_native_tools": [
+    {
+      "name": "native_chinese_path_search",
+      "passed": true,
+      "results": 3
+    },
+    {
+      "name": "archive_search",
+      "passed": true
+    },
+    {
+      "name": "recent_documents",
+      "passed": true
+    },
+    {
+      "name": "file_metadata",
+      "passed": true
+    },
+    {
+      "name": "project_count",
+      "passed": true
+    }
+  ],
+  "unicode_paths_correct": true,
+  "content_previews_used": false,
+  "private_query_output_included": false,
+  "clean_restore_test": {
+    "checked_at_utc": "2026-10-23T13:02:28.722594+00:00",
+    "passed": true,
+    "checks": [
+      "five_read_only_tools_discovered",
+      "exact_chinese_path_search",
+      "archive_type_search",
+      "recent_documents",
+      "metadata_without_content_preview",
+      "count_and_size"
+    ]
+  }
+}

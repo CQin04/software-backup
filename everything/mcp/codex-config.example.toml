@@ -1,0 +1,16 @@
+# Replace C:/Tools/EverythingMCP with the absolute directory containing this file.
+# Merge only this server entry into your config; do not replace the whole config.
+[mcp_servers.everything]
+command = 'C:/Tools/EverythingMCP/.venv/Scripts/python.exe'
+args = ['-B', '-m', 'everything_mcp']
+startup_timeout_sec = 30
+tool_timeout_sec = 45
+
+[mcp_servers.everything.env]
+EVERYTHING_ES_PATH = 'C:/Tools/EverythingMCP/bin/es.exe'
+EVERYTHING_MAX_RESULTS_CAP = '200'
+# ES may return Windows ACP bytes. Keep locale fallback available.
+PYTHONUTF8 = '0'
+# MCP stdio continues to use UTF-8.
+PYTHONIOENCODING = 'utf-8'
+
