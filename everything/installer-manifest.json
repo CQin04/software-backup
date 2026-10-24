@@ -5,7 +5,7 @@
     "SHA256": "c42efad041d4c0bb4d4ac97ae7cbe89f153ec1fe078772392e749c7f5d5282d3",
     "OfficialSource": "https://www.voidtools.com/Everything-1.4.1.1032.x64-Setup.exe",
     "VerifiedAgainstOfficialSHA256": true,
-    "RepositoryPath": "installers/Everything-1.4.1.1032.x64-Setup.exe"
+    "ReleaseAssetURL": "https://github.com/CQin04/software-backup/releases/download/everything-1.4.1.1032/Everything-1.4.1.1032.x64-Setup.exe"
   },
   {
     "Name": "Everything-1.4.1.1032.x64.zip",
@@ -13,7 +13,7 @@
     "SHA256": "698df475ec44e638f66f1b6a32d28fea613cec78d3b6310e6abe53431eeb940c",
     "OfficialSource": "https://www.voidtools.com/Everything-1.4.1.1032.x64.zip",
     "VerifiedAgainstOfficialSHA256": true,
-    "RepositoryPath": "installers/Everything-1.4.1.1032.x64.zip"
+    "ReleaseAssetURL": "https://github.com/CQin04/software-backup/releases/download/everything-1.4.1.1032/Everything-1.4.1.1032.x64.zip"
   },
   {
     "Name": "Everything-1.4.1.1032.x64.Lite-Setup.exe",
@@ -21,6 +21,6 @@
     "SHA256": "aeb536000ca07a4a2ba93ed416c118bb829ceeba20a1839866adcb73f2aa0013",
     "OfficialSource": "https://www.voidtools.com/Everything-1.4.1.1032.x64.Lite-Setup.exe",
     "VerifiedAgainstOfficialSHA256": true,
-    "RepositoryPath": "installers/Everything-1.4.1.1032.x64.Lite-Setup.exe"
+    "ReleaseAssetURL": "https://github.com/CQin04/software-backup/releases/download/everything-1.4.1.1032/Everything-1.4.1.1032.x64.Lite-Setup.exe"
   }
 ]

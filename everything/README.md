@@ -1,6 +1,6 @@
 # Everything 文件搜索与MCP备份
 
-Everything是voidtools提供的Windows文件名搜索工具。本目录保存用户已收录的三种64位多语言发行包，以及可复用的MCP接入包。三个发行包均为1.4.1.1032，实测SHA256与官方版本摘要一致，未修改二进制内容。
+Everything是voidtools提供的Windows文件名搜索工具。三个64位多语言发行包保存在 [Release](https://github.com/CQin04/software-backup/releases/tag/everything-1.4.1.1032)，本目录保存说明、校验清单和可复用的MCP接入包。三个发行包均为1.4.1.1032，实测SHA256与官方版本摘要一致，未修改二进制内容。
 
 ## 三个下载包怎么选
 
@@ -25,7 +25,7 @@ Everything是voidtools提供的Windows文件名搜索工具。本目录保存用
 
 ## 文件校验与来源
 
-- [SHA256SUMS](SHA256SUMS)：本目录三份发行包的摘要。
+- [SHA256SUMS](SHA256SUMS)：Release 中三份发行包的摘要；下载后可在文件所在目录核对。
 - [installer-manifest.json](installer-manifest.json)：版本文件名、大小、官方来源与核验状态。
 - [官方1.4.1.1032校验文件](https://www.voidtools.com/Everything-1.4.1.1032.sha256)。
 - [官方下载页](https://www.voidtools.com/downloads/)、[官方许可](LICENSE.txt)。
