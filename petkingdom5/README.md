@@ -4,7 +4,7 @@
 
 ## 下载
 
-[下载 r4-icon 测试版](https://github.com/CQin04/software-backup/releases/tag/petkingdom5-r4-icon-2026-10-13)
+[下载 r4-icon 测试版](https://github.com/CQin04/software-backup/releases/tag/petkingdom5.phone-test.r4-icon.2026-10-13)
 
 文件：`petkingdom5.phone-test.r4-icon.2026-10-13.apk`
 
