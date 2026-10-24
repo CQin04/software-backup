@@ -5,8 +5,10 @@
 ## 下载
 
 - [Release 下载页](https://github.com/CQin04/software-backup/releases/tag/concepts-2025.01.5-collected)
-- [下载概念画板.apk](https://github.com/CQin04/software-backup/releases/download/concepts-2025.01.5-collected/%E6%A6%82%E5%BF%B5%E7%94%BB%E6%9D%BF.apk)
+- [下载 APK](https://github.com/CQin04/software-backup/releases/download/concepts-2025.01.5-collected/Concepts-2025.01.5-collected.apk)
 - [SHA256 校验值](SHA256SUMS)
+
+原文件名：`概念画板.apk`；Release 附件名：`Concepts-2025.01.5-collected.apk`。
 
 ## 文件信息
 
