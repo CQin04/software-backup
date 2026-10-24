@@ -7,6 +7,7 @@
 | Everything | [文件搜索与 MCP 接入](everything/) | [1.4.1.1032 x64](https://github.com/CQin04/software-backup/releases/tag/everything-1.4.1.1032) |
 | VMware Workstation Pro | [安装与中文包说明](VMware/) | [26H1u1](https://github.com/CQin04/software-backup/releases/tag/vmware-26h1u1-25688693) |
 | Snipaste | [便携版备份](snipaste/) | [2.11.3 x64](https://github.com/CQin04/software-backup/releases/tag/snipaste-2.11.3-modified) |
+| 鼠标样式 | [浅色／深色与尺寸说明](mouse-cursors/) | [完整素材包](https://github.com/CQin04/software-backup/releases/tag/mouse-cursors-backup-20261025) |
 | NanaRun | [运行环境与权限工具](NanaRun/) | [1.0 Preview 3](https://github.com/CQin04/software-backup/releases/tag/nanarun-1.0.92.0) |
 | JiYuTrainer | [文件信息与许可证](JiYuTrainer/) | [收录版本](https://github.com/CQin04/software-backup/releases/tag/JiYuTrainer) |
 | 宠物王国5-彩虹 | [测试版说明](petkingdom5/) | [手机测试版](https://github.com/CQin04/software-backup/releases/tag/petkingdom5.phone-test.r4-icon.2026-10-13) |
