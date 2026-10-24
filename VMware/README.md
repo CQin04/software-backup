@@ -4,12 +4,12 @@ Windows x64 · 26.0.1 build-25688693。
 
 ## 下载
 
-从本仓库的 [Releases](https://github.com/CQin04/software-backup/releases) 下载：
+从本仓库的 [Release 下载页](https://github.com/CQin04/software-backup/releases/tag/vmware-26h1u1-25688693) 下载：
 
 | 文件 | 用途 |
 | --- | --- |
-| `VMware-Workstation-Full-26H1u1-25688693.exe` | 安装程序 |
-| `VMware-Workstation-26H1u1-25688693-zh_CN.zip` | 非官方中文包 |
+| [VMware-Workstation-Full-26H1u1-25688693.exe](https://github.com/CQin04/software-backup/releases/download/vmware-26h1u1-25688693/VMware-Workstation-Full-26H1u1-25688693.exe) | 安装程序 |
+| [VMware-Workstation-26H1u1-25688693-zh_CN.zip](https://github.com/CQin04/software-backup/releases/download/vmware-26h1u1-25688693/VMware-Workstation-26H1u1-25688693-zh_CN.zip) | 非官方中文包 |
 
 文件校验值见 [SHA256SUMS](SHA256SUMS)。安装程序原样保留；中文包仅适用于此 build。
 
