@@ -6,9 +6,9 @@ Everything是voidtools提供的Windows文件名搜索工具。本目录保存用
 
 | 类型 | 备份文件 | 大小（字节） | 适用情况 | 此MCP可用 |
 | --- | --- | ---: | --- | --- |
-| 64位标准安装版 | [Everything-1.4.1.1032.x64-Setup.exe](installers/Everything-1.4.1.1032.x64-Setup.exe) | 1,998,736 | 日常使用推荐，有安装向导，可安装索引服务 | 是 |
-| 64位便携版 | [Everything-1.4.1.1032.x64.zip](installers/Everything-1.4.1.1032.x64.zip) | 1,906,504 | 解压运行；NTFS索引仍需相应服务或管理员权限 | 是 |
-| 64位精简安装版 | [Everything-1.4.1.1032.x64.Lite-Setup.exe](installers/Everything-1.4.1.1032.x64.Lite-Setup.exe) | 1,959,640 | 只需搜索界面，不使用IPC及相关服务端功能 | 否 |
+| 64位标准安装版 | [Everything-1.4.1.1032.x64-Setup.exe](https://github.com/CQin04/software-backup/releases/download/everything-1.4.1.1032/Everything-1.4.1.1032.x64-Setup.exe) | 1,998,736 | 日常使用推荐，有安装向导，可安装索引服务 | 是 |
+| 64位便携版 | [Everything-1.4.1.1032.x64.zip](https://github.com/CQin04/software-backup/releases/download/everything-1.4.1.1032/Everything-1.4.1.1032.x64.zip) | 1,906,504 | 解压运行；NTFS索引仍需相应服务或管理员权限 | 是 |
+| 64位精简安装版 | [Everything-1.4.1.1032.x64.Lite-Setup.exe](https://github.com/CQin04/software-backup/releases/download/everything-1.4.1.1032/Everything-1.4.1.1032.x64.Lite-Setup.exe) | 1,959,640 | 只需搜索界面，不使用IPC及相关服务端功能 | 否 |
 
 这些文件是同一版本的不同发行形式；便携版是ZIP压缩包。Everything 1.4 Lite移除了IPC，因此官方ES、SDK以及本目录MCP不能与Lite连接。它也不包含ETP/FTP和HTTP服务器。详见[官方版本说明](https://www.voidtools.com/support/everything/installing_everything/)。
 
