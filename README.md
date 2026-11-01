@@ -5,17 +5,17 @@
 | 软件 | 说明 | 下载 |
 | --- | --- | --- |
 | Everything | [文件搜索与 MCP 接入](everything/) | [1.4.1.1032 x64](https://github.com/CQin04/software-backup/releases/tag/everything-1.4.1.1032) |
-| VMware Workstation Pro | [安装与中文包说明](VMware/) | [26H1u1](https://github.com/CQin04/software-backup/releases/tag/vmware-26h1u1-25688693) |
+| VMware Workstation Pro | [安装与中文包说明](vmware/) | [26H1u1](https://github.com/CQin04/software-backup/releases/tag/vmware-26h1u1-25688693) |
 | Snipaste | [便携版备份](snipaste/) | [2.11.3 x64](https://github.com/CQin04/software-backup/releases/tag/snipaste-2.11.3-modified) |
 | 鼠标样式 | [浅色／深色与尺寸说明](mouse-cursors/) | [完整素材包](https://github.com/CQin04/software-backup/releases/tag/mouse-cursors-backup-20261025) |
 | 概念画板 | [Android 非官方版本备份](concepts/) | [包内版本 2025.01.5](https://github.com/CQin04/software-backup/releases/tag/concepts-2025.01.5-collected) |
 | IT豪哥电脑更新暂停器 | [文件说明](windows-update-delayer/) | [v2.0](https://github.com/CQin04/software-backup/releases/tag/windows-update-delayer-2.0) |
 | XMind 2025 | [收集版文件说明](xmind/) | [25.1.1061 组合包](https://github.com/CQin04/software-backup/releases/tag/xmind-2025-25.1.1061-collected) |
-| SumatraPDF | [PDF 与电子书阅读器](SumatraPDF/) | [3.6.1 x64 稳定版](https://github.com/CQin04/software-backup/releases/tag/sumatrapdf-3.6.1-x64) |
-| DeskPins | [窗口置顶工具](DeskPins/) | [1.32 安装包](https://github.com/CQin04/software-backup/releases/tag/deskpins-1.32) |
-| PotPlayer | [Windows 64 位播放器安装包](PotPlayer/) | [1.7.23159 x64](https://github.com/CQin04/software-backup/releases/tag/potplayer-1.7.23159-x64) |
-| NanaRun | [运行环境与权限工具](NanaRun/) | [1.0 Preview 3](https://github.com/CQin04/software-backup/releases/tag/nanarun-1.0.92.0) |
-| JiYuTrainer | [文件信息与许可证](JiYuTrainer/) | [收录版本](https://github.com/CQin04/software-backup/releases/tag/JiYuTrainer) |
+| SumatraPDF | [PDF 与电子书阅读器](sumatrapdf/) | [3.6.1 x64 稳定版](https://github.com/CQin04/software-backup/releases/tag/sumatrapdf-3.6.1-x64) |
+| DeskPins | [窗口置顶工具](deskpins/) | [1.32 安装包](https://github.com/CQin04/software-backup/releases/tag/deskpins-1.32) |
+| PotPlayer | [Windows 64 位播放器安装包](potplayer/) | [1.7.23159 x64](https://github.com/CQin04/software-backup/releases/tag/potplayer-1.7.23159-x64) |
+| NanaRun | [运行环境与权限工具](nanarun/) | [1.0 Preview 3](https://github.com/CQin04/software-backup/releases/tag/nanarun-1.0.92.0) |
+| JiYuTrainer | [文件信息与许可证](jiyutrainer/) | [收录版本](https://github.com/CQin04/software-backup/releases/tag/JiYuTrainer) |
 | 宠物王国5-彩虹 | [测试版说明](petkingdom5/) | [手机测试版](https://github.com/CQin04/software-backup/releases/tag/petkingdom5.phone-test.r4-icon.2026-10-13) |
 
 下载时选择 Release 中对应附件；GitHub 自动生成的 Source code 压缩包不包含独立上传的安装包。软件权利与许可见各目录说明。
