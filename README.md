@@ -17,5 +17,6 @@
 | NanaRun | [运行环境与权限工具](nanarun/) | [1.0 Preview 3](https://github.com/CQin04/software-backup/releases/tag/nanarun-1.0.92.0) |
 | JiYuTrainer | [文件信息与许可证](jiyutrainer/) | [收录版本](https://github.com/CQin04/software-backup/releases/tag/JiYuTrainer) |
 | 宠物王国5-彩虹 | [测试版说明](petkingdom5/) | [手机测试版](https://github.com/CQin04/software-backup/releases/tag/petkingdom5.phone-test.r4-icon.2026-10-13) |
+| ChatGPT / Codex 管理员启动器 | [使用说明](codex-admin-launcher/) | [单文件 BAT](codex-admin-launcher/ChatGPT-Admin.bat) |
 
 下载时选择 Release 中对应附件；GitHub 自动生成的 Source code 压缩包不包含独立上传的安装包。软件权利与许可见各目录说明。
