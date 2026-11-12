@@ -4,7 +4,7 @@
 
 ## 使用
 
-1. 打开 [ChatGPT-Admin.bat](ChatGPT-Admin.bat)，使用 GitHub 的 **Download raw file** 下载，保留 `.bat` 扩展名。
+1. 打开 [ChatGPT-Admin.bat](../ChatGPT-Admin.bat)，使用 GitHub 的 **Download raw file** 下载，保留 `.bat` 扩展名。
 2. 先保存正在进行的工作：脚本会强制关闭同一程序路径下的现有桌面应用进程。
 3. 双击文件，在 Windows 管理员权限提示中选择“是”。
 4. 应用启动后可以关闭启动器窗口。
